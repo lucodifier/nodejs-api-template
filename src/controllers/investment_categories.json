@@ -1,0 +1,23 @@
+{
+"investment_categories": [
+	{
+		"id" : 1,
+		"description" : "Ações"
+	},
+	{
+		"id" : 2,
+		"description" : "BDRs"
+	},
+	{
+		"id" : 3,
+		"description" : "Fundos"
+	},
+	{
+		"id" : 4,
+		"description" : "Tesouro Direto"
+	},
+	{
+		"id" : 5,
+		"description" : "CDI"
+	}
+]}
